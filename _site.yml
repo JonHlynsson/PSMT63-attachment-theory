@@ -11,10 +11,10 @@ navbar:
       icon: fa-archive
       menu:
       - text: "Assignment 1"
-        href: "https://sway.office.com/v7Ylv4SPi1HyOPhC?ref=Link"
+        href: Assignment_1.htm
         icon: fa-file-text
       - text: "Assignment 2"
-        href: "https://sway.office.com/JIPQ42ygDITimqQX?ref=Link"
+        href: Assignment_2.htm
         icon: fa-file-text
       - text: "Assignment 2 Slides"
         href: Slides2.html
@@ -30,3 +30,5 @@ output_dir: "docs"
 # fa-school
 # fa-resistance - fa-file-text - fa-r-project
 # https://www.w3schools.com/icons/icons_reference.asp
+# Assignment 1: "https://sway.office.com/v7Ylv4SPi1HyOPhC?ref=Link"
+# Assignemt 2: "https://sway.office.com/JIPQ42ygDITimqQX?ref=Link"

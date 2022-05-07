@@ -18,7 +18,7 @@ Human Development: Attachment and Relational Contexts of Lifespan Development
 </div>
 
 :::::{pull-left}
-```{r, echo=FALSE, out.width="33%"}
+```{r, echo=FALSE, out.width="13%"}
 knitr::include_graphics("https://www.amscins.com/wp-content/uploads/2011/05/Stockholm-university.jpg")
 ```
 :::::
