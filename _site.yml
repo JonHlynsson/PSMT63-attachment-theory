@@ -1,0 +1,32 @@
+name: "PSMT63: Attachment Theory"
+icon: fa-empire
+navbar:
+  title: "PSMT63: Attachment Theory"
+  icon: fa-font-awesome-flag
+  left:
+    - text: "Home"
+      href: index.html
+      icon: fa-home
+    - text: "Assignments"
+      icon: fa-archive
+      menu:
+      - text: "Assignment 1"
+        href: "https://sway.office.com/v7Ylv4SPi1HyOPhC?ref=Link"
+        icon: fa-file-text
+      - text: "Assignment 2"
+        href: "https://sway.office.com/JIPQ42ygDITimqQX?ref=Link"
+        icon: fa-file-text
+      - text: "Assignment 2 Slides"
+        href: Slides2.html
+        icon: fa-film
+      - text: "Assignment 3 Slides"
+        href: Slides3.html
+        icon: fa-film
+    - text: "About"
+      href: about.html
+      icon: fa-question-circle
+output_dir: "docs"
+
+# fa-school
+# fa-resistance - fa-file-text - fa-r-project
+# https://www.w3schools.com/icons/icons_reference.asp

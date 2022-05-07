@@ -1,0 +1,32 @@
+---
+title: "Home"
+output: 
+  html_document:
+    theme: flatly
+    css: default.css
+---
+
+# Attachment Theory
+
+![](images/Hlynsson/Banner.jpg)
+
+Human Development: Attachment and Relational Contexts of Lifespan Development
+
+
+<div class="pull-right">
+![](images/Hlynsson/ProjectHlynsson.jpg){width=150px align="right"}
+</div>
+
+:::::{pull-left}
+```{r, echo=FALSE, out.width="33%"}
+knitr::include_graphics("https://www.amscins.com/wp-content/uploads/2011/05/Stockholm-university.jpg")
+```
+:::::
+
+
+\newpage
+
+
+
+<hr>
+`r r2symbols::symbol("copyright")` Jon Ingi Hlynsson - Last changed: `r Sys.Date()`

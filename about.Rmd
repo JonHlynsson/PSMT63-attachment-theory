@@ -1,0 +1,40 @@
+---
+title: "About"
+output: 
+  html_document:
+    theme: flatly
+    toc: no
+    toc_float: no
+    css: default.css
+---
+
+#
+
+![](images/Hlynsson/Banner.jpg)
+<hr>
+
+
+# The course PSMT63
+
+
+PSMT63 - Human Development: Attachment and Relational Contexts of Lifespan Development is taught at the Department of Psychology, Stockholm University, by Joel Gruneau Brulin, PhD.
+
+
+
+<hr>
+
+
+### Project Hlynsson is also live on [**YouTube**](https://www.youtube.com/channel/UC8KVPSlpugcmWHFQYSAD4eA)!
+
+
+
+:::::{.pull-right}
+![](images/Hlynsson/ProjectHlynsson.jpg){width=150px align="right"}
+:::::
+
+
+<br><br><br><br><br><br><br><br>
+
+
+<br><br><br><br><br><br><br><br><hr>
+`r r2symbols::symbol("copyright")` Jon Ingi Hlynsson - last edited `r Sys.Date()`
