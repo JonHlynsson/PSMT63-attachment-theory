@@ -11,10 +11,10 @@ navbar:
       icon: fa-archive
       menu:
       - text: "Assignment 1"
-        href: Assignment_1.htm
+        href: Assignment-one.html
         icon: fa-file-text
       - text: "Assignment 2"
-        href: Assignment_2.htm
+        href: Assignment-two.html
         icon: fa-file-text
       - text: "Assignment 2 Slides"
         href: Slides2.html

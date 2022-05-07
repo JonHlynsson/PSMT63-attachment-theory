@@ -1,0 +1,160 @@
+---
+title: "To What Extent are Attachment Styles Malleable:<br>Attachment as Dispositional Traits or Contextual States?"
+output:  
+  html_document:
+    theme: flatly
+    css: default.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+:::::{center}
+:::::{middle}
+Department of Psychology, Stockholm University
+
+Human Development: Attachment and Relational Contexts of Lifespan Development
+
+Joel Gruneau Brulin, PhD
+
+May 6th, 2022
+:::::
+:::::
+Word count: 2192 words
+
+John Bowlby (1969/1982) conceived of the attachment system as an innate, evolutionary evolved, behavioural system. According to Bowlby, the attachment system preferentially seeks security with a principal attachment figure through physical proximity. However, obtaining security is largely dependent on the provision of sensitivity from a primary caregiver (Cassidy, 2016) and is only successfully acquired in approximately 60% of the population (Bakermans-Kranenburg &amp; van IJzendoorn, 2009; Mickelson et al., 1997). When the primary strategy of the attachment system (i.e., seeking security through proximity) repeatedly fails, children increasingly adopt _secondary strategies_ to orient themselves in the world (Main, 1990; Mikulincer, 2019). According to Mary Main (1990), secondary strategies are characterized by either a minimization (i.e., _avoidant_ attachment behaviours) or hyperactivation (i.e., _anxious_ attachment behaviours) of attachment signalling as a result of ambivalent or inconsequential caregiver sensitivity, respectively (Crowell et al., 2016; Main &amp; Hesse, 1990).
+
+Despite their label, secondary attachment strategies carry evolutionary advantages. For example, the self-reliant behaviour characteristic of avoidant attachment enables a child to maintain relative proximity to overwhelmed caregivers without driving them away (Main, 1981; Simpson &amp; Belsky, 2016). Moreover, avoidant tendencies can both motivate children to separate earlier from abusive parents as well as facilitate opportunistic behaviour, and thereby increase the likelihood of survival and successful reproduction (Belsky, 1997; Simpson &amp; Belsky, 2016). By the same token, demanding attachment behaviours displayed by anxiously attached children may reflect an ecologically contingent strategy that aims to bolster the quality of parental care, and thus increase the child&#39;s likelihood of survival (Cassidy &amp; Berlin, 1994; Simpson &amp; Belsky, 2016). Stated differently, the hyperactivation of attachment signalling displayed by anxiously attached children may be an evolutionarily evolved strategy that maximizes a child&#39;s likelihood of survival in neglectful environments. Indeed, anxiously attached children are comparatively more likely to have been victims of parental neglect (Simpson &amp; Belsky, 2016; Youngblade &amp; Belsky, 1989).
+
+As the primary attachment strategy, security is predictive of meaningful life outcomes such as positive development of executive functioning (Bernier et al., 2011), task-persistence in problem solving (Matas et al., 1978), effortful control (Viddal et al., 2015), social competence (Groh et al., 2016), emotional understanding (Raikes &amp; Thompson, 2006), and emotion regulation (Kerns et al., 2007). Consequently, attachment security is preferable (cf. primary strategy), and although secure attachments are the most common, approximately 40% of the population is insecurely attached (Bakermans-Kranenburg &amp; van IJzendoorn, 2009; Mickelson et al., 1997). Given the positive life-outcomes associated with security and high proportion of insecurity, one naturally wonders whether attachment styles are malleable context-dependent states or immutable implicit-dispositional traits. In this paper, I aim to illuminate the attachment construct with regard to attachment malleability and contextual dependency. To do so, I will argue that attachment should first and foremost be conceived of as an organizational construct (Sroufe &amp; Waters, 1997).
+
+## Attachment: An Organisational Construct
+
+Bowlby (1969/1982) proposed that during the course of human evolution, the attachment system had evolved in the environment of evolutionary adaptedness (EEA) where proximity-seeking behaviours with a caregiver were favoured in the genetic selection (i.e., attachment behaviours; Bretherton, 1992). Thus, to obtain physical proximity with an attachment figure, the child engages in various attachment behaviours (e.g., approaching and following the principal attachment figure via locomotion; Cassidy, 2016). Importantly, interpreting the meaning of a behavioural expression is dependent on the context in which the behaviour manifests (Sroufe &amp; Waters, 1997). Stated differently, the same behavioural expression can have multiple meanings (e.g., Harrington et al., 1996), which in turn implies that determining whether behaviour _A_ is properly a member of class _X_ (e.g., proximity-seeking behaviours) necessitates a behavioural and situational context consideration. The same behavioural expression might act as a means to seek proximity in one context, but as a marker of avoidance in another. For instance, most children turn away from their attachment figure when their nose is wiped, which does not necessarily indicate avoidance, but such a response (i.e., turning away from an attachment figure) might predict avoidance in the context of support-seeking (i.e., safe haven) behaviours (Sroufe &amp; Waters, 1997).
+
+The distinction between specific behaviours and patterns of behaviour is important, not least because presumed behavioural-specific indexes of attachment intercorrelate poorly, do not show temporal stability, and are contextually dependent (Coates et al., 1972; Masters &amp; Wellman, 1974). If attachment is viewed as an implicit trait (i.e., an internal phenomenon that resides in some amount within individuals), index behaviours of attachment should intercorrelate (Sroufe &amp; Waters, 1997). As noted above, behavioural-specific indexes of attachment do not intercorrelate highly (Coates et al., 1972; Masters &amp; Wellman, 1974), and even amount of proximity seeking or separation protest behaviours, &quot;hallmarks of attachment,&quot; cannot index amount of attachment; proximity seeking and separation protest behaviours are markers of the quality of attachment only when the behavioural manifestation is viewed with respect to its organization within specific contexts and other behaviours. For example, if separation protest did index amount of attachment, infants&#39; attachment would decrease as they develop from 12- and 24-months (Sroufe &amp; Waters, 1997).
+
+Viewing attachment styles as implicit traits is not indispensable to attachment theory; the trait-view of attachment arose from the social learning theory of dependency when researchers studied caregiver-infant interactions (Ainsworth, 1969; Maccoby, 2007). Importantly, Bowlby (1969/1982) bypassed constraints related to causal trait terminology and drive reduction conceptualizations by casting attachment theory in systems theory of set goals, goal correction, and function (Granqvist, 2020a; Sroufe &amp; Waters, 1997). In Bowlby&#39;s view, attachment can best be conceptualized as an affectionate tie between an attached child and their attachment figure that relies on a flexible behavioural system that is a) operating in terms of set goals, b) interaction with other behavioural systems, and c) mediated by emotion (Bowlby 1969/1982; Sroufe &amp; Waters, 1997). Consequently, attachment behaviours are predictably influenced by the context in which they occur as opposed to reliably referring to an indexable trait-like constant across situations (Sroufe &amp; Waters, 1997).
+
+Bowlby (1969/1982) hypothesized attachment related patterns of behaviour to be stable over time, not the specific behavioural expressions. Indeed, stability in attachment classifications (i.e., organized patterns of behaviour) is the rule rather than the exception (Waters et al., 2000), but specific behaviours occurring in one context might poorly predict itself in another context. Instead, a specific attachment behaviour in context _A_ might be a better predictor of a phenotypically different behaviour in context _B_ then of itself (Sroufe &amp; Waters, 1997). For example, proximity seeking behaviour in a distressful situation might be more predictive of positively welcoming a primary caregiver upon reunion than it is of proximity seeking in distressful situations (Sroufe &amp; Waters, 1997). Indeed, an adaptive attachment relationship is characterized by a predictable change in the organization of adaptive behaviour. Conceiving of the affectionate bond characteristic of attachment as reliant on an adaptive and flexible behavioural system presupposes that the attached figure has mastered the coordination of a wide variety of adaptive goal-correcting behavioural responses (Sroufe &amp; Waters, 1997). In agreement with Bowlby&#39;s (1969/1982) hypothesis, the organization of adaptive behavioural patterns that mark attachment quality appear stable over time, but not the specific behavioural expressions (Sroufe &amp; Waters, 1997; Waters et al., 2000).
+
+## Attachment Malleability
+
+Bowlby (1969/1982) expected attachment styles to become more resistant to change over time (i.e., general continuity), but also claimed change to be possible, especially in unstable, chastising environments (i.e., lawful discontinuity). Indeed, as noted above, stability in attachment classifications is the rule rather than the exception (Waters et al., 2000), but negative life events such as child maltreatment and maternal depression predict instability in attachment (Weinfield et al., 2000). In one study examining attachment style changes among individuals with post-traumatic stress disorder (PTSD), treatment group participants were more likely to move from an insecure attachment style to security following an intensive 8-week-long group psychotherapy (i.e., compared to moving from security to insecurity; Muller &amp; Rosenkranz, 2009).
+
+In another more recent study, psilocybin-assisted psychotherapeutic intervention reduced attachment-anxiety substantially and the effect was enduring (i.e., almost 4 months after a single psilocybin session; Stauffer et al., 2021; but see also Cherniak et al., 2021). The reduction of anxious attachment is notable as in psychotherapy, attachment-anxiety is associated with the worst treatment outcomes and can be detrimental to treatment efficacy (e.g., Levy et al., 2010; McBride et al., 2006; but see also Slade, 2016). Thus, conceiving of attachment as a malleable phenomenon is an empirically supported notion, not least in times of emotional distress and crisis (Weinfield et al., 2000; but see also Granqvist, 2020b), but also psychotherapy and related clinical interventions (Muller &amp; Rosenkranz, 2009; Stauffer et al., 2021). Importantly, the examples cited here barely scratch the surface of the vast empirically backed interventions shown to increase and/or facilitate attachment security (for review, see e.g., Wright &amp; Edginton, 2016).
+
+## Attachment as a State or Trait
+
+As noted above, organized patterns of behaviour that typify attachment quality remain relatively stable over time (Sroufe &amp; Waters, 1997; Waters et al., 2000). Attachment quality is established through attachment-related experiences (e.g., separations from mother; Cassidy et al., 2013). Following repeated attachment-related experiences, children conjure up a _mental representation_ of their attachment figure, themselves, and their environment (Cassidy, 2016; Bretherton, 1992). Stated differently, a mental representation is akin to a mental image that consists of the child&#39;s expectations and knowledge about the world, based on their attachment-related experiences. Thus, one could conceive of a mental representation as an internal marker of attachment quality. Bowlby (1969/1982) referred to such mental representations as internal-working-models (IWMs) that govern and guide organized attachment behavioural patterns as children grow older (Fraley, 2007). Furthermore, threat appraisal in novel circumstances; including behavioural organization and formation; is guided by IWMs (Cassidy et al., 2013).
+
+As noted above, the attachment system includes both to a behavioural system (i.e., organized patterns of behaviour) and a cognitive component (i.e., IWMs; Cassidy, 2016). It is conceivable to ideate IWMs as akin to a trait-like phenomenon; given the qualifications outlined above (i.e., attachment as an organizational construct); which aids heuristic processing of the environment so an appropriate behavioural response can be employed (Bretherton &amp; Munholland, 2016). In that view, attachment can be conceptualized as the composition of both a stable, trait-like component, and a contextually variable state-like component–a viewpoint which has gained a fair bit of empirical support (Fraley, 2007; Verhees et al., 2021). Although the trait-like component of attachment is commonly conceptualized as a stable feature (Sroufe &amp; Waters, 1997; Waters et al., 2000), more variation, on average, appears to characterize the state-like attachment component (Bosmans et al., 2014; Verhees et al., 2021).
+
+However, trait attachment and state attachment interact with each other such that more securely attached children at the trait level appear to vary less in their state attachment (Bosmans et al., 2014; Verhees et al., 2021). Indeed, securely attached children&#39;s knowledge of a reliably sensitive and responsive caregiver eventually crystallize in a so-called secure-base-script (Waters &amp; Waters, 2006) as the first truly social learning experience (Sroufe &amp; Waters, 1997). It has even been suggested that social learning is the functional consequence of attachment beyond protection that is facilitated by security (Granqvist, 2020b). As a result of insecurity being associated with a greater variability in state attachment (Bosmans et al., 2014; Verhees et al., 2021), and increased state attainment variability being associated with psychological problems (Verhees et al., 2021), it has been suggested that clinical interventions aiming to alleviate such problems should reduce state attachment variability (Verhees et al., 2021). However, it remains to be fully seen how such interventions could be practically implemented. For instance, interventions making use of security priming; which is generally associated with beneficial effects on various variables such as aggression, depression, compassion, and altruism (for review see Gillath &amp; Karantzas, 2019); appear to _increase_ state attainment anxiety (Stevenson et al., 2021). Thus, given that state attachment anxiety increases following a security prime, but a reduced state attachment variability might act as a protective factor against psychological problems, apparent contradictory findings need to be reconciled before a large-scale implementation can be conceived of.
+
+# Conclusion
+
+If one attempts to dichotomize attachment as an either trait-like or state-like phenomenon, one is arguably approaching the question both non-pragmatically and from a wrong angle. As noted above, attachment both has a state-like and a trait-like component (Bosmans et al., 2014; Verhees et al., 2021), which likely is testament to the adaptability of humans. If attachment were an unmalleable dispositional trait, negative life events would not interfere with its organization, but they do (Weinfield et al., 2000), which increases the likelihood of survival in aversive environments (Belsky, 1997; Simpson &amp; Belsky, 2016; Youngblade &amp; Belsky, 1989). Likewise, if attachment were uniformly contextually dependent (i.e., a state), every novel and potentially threatening situation would demand a novel interpretation and evaluation. Stated differently, there would be no heuristically guided processing (i.e., no IWMs), meaning that individuals would not have a mental representation to rely on in novel circumstances (Cassidy et al., 2013; Bretherton &amp; Munholland, 2016). Lastly, as already implied, attachment organization is malleable, not least through psychotherapeutic interventions (Muller &amp; Rosenkranz, 2009; Stauffer et al., 2021). In summary, one could neither claim attachment to exclusively be a trait nor state, it is both.
+
+‌
+
+# References
+
+Ainsworth, M. D. (1969). Object relations, dependency, and attachment: A theoretical review of the infant-mother relationship. _Child Development, 40_(4), 969–1025. https://doi.org/10.2307/1127008
+
+Bakermans-Kranenburg, M. J., &amp; van IJzendoorn, M. H. (2009). The first 10,000 Adult Attachment Interviews: distributions of adult attachment representations in clinical and non-clinical groups. _Attachment &amp; Human Development, 11_(3), 223–263. https://doi.org/10.1080/14616730902814762
+
+Belsky, J. (1997). Attachment, mating, and parenting: An evolutionary interpretation. _Human Nature, 8_(4), 361–381. https://doi.org/10.1007/BF02913039
+
+Bernier, A., Carlson, S. M., Deschênes, M., &amp; Matte-Gagné, C. (2011). Social factors in the development of early executive functioning: a closer look at the caregiving environment. _Developmental Science, 15_(1), 12–24. https://doi.org/10.1111/j.1467-7687.2011.01093.x
+
+Bosmans, G., Van de Walle, M., Goossens, L., &amp; Ceulemans, E. (2014). (In)variability of Attachment in Middle Childhood: Secure Base Script Evidence in Diary Data. _Behaviour Change, 31_(4), 225–242. https://doi.org/10.1017/bec.2014.18
+
+Bowlby, J. (1969/1982). _Attachment and loss: Vol. 1. Attachment_. New York, NY: Basic Books.
+
+Bretherton, I. (1992). The origins of attachment theory: John Bowlby and Mary Ainsworth. _Developmental Psychology, 28_(5), 759–775. https://doi.org/10.1037/0012-1649.28.5.759
+
+Bretherton, I., &amp; Munholland, K. A. (2016). The internal working model construct in light of contemporary neuroimaging research. In J. Cassidy &amp; P. R. Shaver (Eds.), _Handbook of attachment: Theory, research, and clinical applications_ (3rd ed., pp. 63–88). The Guilford Press.
+
+Cassidy, J. (2016). The nature of the child&#39;s ties. In J. Cassidy &amp; P. R. Shaver (Eds.), _Handbook of attachment: Theory, research, and clinical applications_ (3rd ed., pp. 3–24). The Guilford Press.
+
+Cassidy, J., &amp; Berlin, L. J. (1994). The Insecure/Ambivalent Pattern of Attachment: Theory and Research. _Child Development, 65_(4), 971–991. https://doi.org/10.1111/j.1467-8624.1994.tb00796.x
+
+Cassidy, J., Jones, J. D., &amp; Shaver, P. R. (2013). Contributions of attachment theory and research: A framework for future research, translation, and policy. _Development and Psychopathology, 25_(4pt2), 1415–1434. https://doi.org/10.1017/s0954579413000692
+
+Cherniak, A. D., Gruneau Brulin, J., Mikulincer, M., Ostlind, S., Carhart-Harris, R., &amp; Granqvist, P. (2021, December 25). Psychedelic Science of Spirituality and Religion: An Attachment-Informed Agenda Proposal. https://doi.org/10.31234/osf.io/x58m9
+
+Coates, B., Anderson, E. P., &amp; Hartup, W. W. (1972). The stability of attachment behaviors in the human infant. _Developmental Psychology, 6_(2), 231–237. https://doi.org/10.1037/h0032088
+
+Crowell, J. A., Fraley, R. C., &amp; Shaver, P. R. (2016). Measurement of individual differences in adolescent and adult attachment. In J. Cassidy &amp; P. R. Shaver (Eds.), _Handbook of attachment: Theory, research, and clinical applications_ (3rd ed., pp. 598–635). The Guilford Press.
+
+Fraley, R. C. (2007). A Connectionist Approach to the Organization and Continuity of Working Models of Attachment. _Journal of Personality, 75_(6), 1157–1180. https://doi.org/10.1111/j.1467-6494.2007.00471.x
+
+Gillath, O., &amp; Karantzas, G. (2019). Attachment security priming: a systematic review. Current _Opinion in Psychology, 25_, 86–95. https://doi.org/10.1016/j.copsyc.2018.03.001
+
+Granqvist, P. (2020a). _Attachment in religion and spirituality: A wider view._ Guilford Publications.
+
+Granqvist, P. (2020b). Attachment, culture, and gene-culture co-evolution: expanding the evolutionary toolbox of attachment theory. _Attachment &amp; Human Development, 23_(1), 90–113. https://doi.org/10.1080/14616734.2019.1709086
+
+Groh, A. M., Narayan, A. J., Bakermans‐Kranenburg, M. J., Roisman, G. I., Vaughn, B. E., Fearon, R. M. P., &amp; IJzendoorn, M. H. (2016). Attachment and Temperament in the Early Life Course: A Meta‐Analytic Review. _Child Development, 88_(3), 770–795. https://doi.org/10.1111/cdev.12677
+
+Harrington, R., Rutter, M., &amp; Fombonne, E. (1996). Developmental pathways in depression: Multiple meanings, antecedents, and endpoints. _Development and Psychopathology, 8_(4), 601–616. https://doi.org/10.1017/s095457940000732x
+
+Kerns, K. A., Abraham, M. M., Schlegelmilch, A., &amp; Morgan, T. A. (2007). Mother – child attachment in later middle childhood: Assessment approaches and associations with mood and emotion regulation. _Attachment &amp; Human Development, 9_(1), 33–53. https://doi.org/10.1080/14616730601151441
+
+Levy, K. N., Ellison, W. D., Scott, L. N., &amp; Bernecker, S. L. (2010). Attachment style. _Journal of Clinical Psychology, 67_(2), 193–203. https://doi.org/10.1002/jclp.20756
+
+Maccoby, E. E. (2007). Historical Overview of Socialization Research and Theory. In J. E. Grusec &amp; P. D. Hastings (Eds.), _Handbook of socialization: Theory and research_ (pp. 13–41). The Guilford Press.
+
+Main, M. (1981). Avoidance in the service of attachment: A working paper. In K. Immelmann, G. Barlow, M. Main, &amp; L. Petrinovich (Eds.), _Behavioral development: The Bielefeld Interdisciplinary Project_ (pp. 651–693). New York: Cambridge University Press.
+
+Main, M. (1990). Cross-Cultural Studies of Attachment Organization: Recent Studies, Changing Methodologies, and the Concept of Conditional Strategies. _Human Development, 33_(1), 48–61. https://doi.org/10.1159/000276502
+
+‌Main, M., &amp; Hesse, E. (1990). Parents&#39; unresolved traumatic experiences are related to infant disorganized attachment status: Is frightened and/or frightening parental behavior the linking mechanism? In M. T. Greenberg, D. Cicchetti, &amp; E. M. Cummings (Eds.), _Attachment in the preschool years: Theory, research, and intervention_ (pp. 161–182). The University of Chicago Press.
+
+Masters, J. C., &amp; Wellman, H. M. (1974). The study of human infant attachment: A procedural critique. _Psychological Bulletin, 81_(4), 218–237. https://doi.org/10.1037/h0036184
+
+‌Matas, L., Arend, R. A., &amp; Sroufe, L. A. (1978). Continuity of adaptation in the second year: The relationship between quality of attachment and later competence. _Child Development, 49_(3), 547–556. https://doi.org/10.2307/1128221
+
+McBride, C., Atkinson, L., Quilty, L. C., &amp; Bagby, R. M. (2006). Attachment as moderator of treatment outcome in major depression: A randomized control trial of interpersonal psychotherapy versus cognitive behavior therapy. _Journal of Consulting and Clinical Psychology, 74_(6), 1041–1054. https://doi.org/10.1037/0022-006x.74.6.1041
+
+Mickelson, K. D., Kessler, R. C., &amp; Shaver, P. R. (1997). Adult attachment in a nationally representative sample. _Journal of Personality and Social Psychology, 73_(5), 1092–1106. https://doi.org/10.1037/0022-3514.73.5.1092
+
+Mikulincer, M. (2019). An Attachment Perspective on Managing Death Concerns. _Handbook of Terror Management Theory_, 243–257. https://doi.org/10.1016/b978-0-12-811844-3.00010-x
+
+Muller, R. T., &amp; Rosenkranz, S. E. (2009). Attachment and treatment response among adults in inpatient treatment for posttraumatic stress disorder. _Psychotherapy: Theory, Research, Practice, Training, 46_(1), 82–96. https://doi.org/10.1037/a0015137
+
+Raikes, H. A., &amp; Thompson, R. A. (2006). Family emotional climate, attachment security and young children&#39;s emotion knowledge in a high risk sample. _British Journal of Developmental Psychology, 24_(1), 89–104. https://doi.org/10.1348/026151005X70427
+
+Simpson, J. A., &amp; Belsky, J. (2016). Attachment theory within a modern evolutionary framework. In J. Cassidy &amp; P. R. Shaver (Eds.), _Handbook of attachment: Theory, research, and clinical applications_ (3rd ed., pp. 91–116). The Guilford Press.
+
+Slade, A. (2016). The implications of attachment theory and research for adult psychotherapy: Research and clinical perspectives. In J. Cassidy &amp; P. R. Shaver (Eds.), _Handbook of attachment: Theory, research, and clinical applications_ (3rd ed., pp. 759–779). The Guilford Press.
+
+Sroufe, L. A., &amp; Waters, E. (1977). Attachment as an organizational construct. _Child Development, 48_(4), 1184–1199. https://doi.org/10.2307/1128475
+
+Stauffer, C. S., Anderson, B. T., Ortigo, K. M., &amp; Woolley, J. (2021). Psilocybin-Assisted Group Therapy and Attachment: Observed Reduction in Attachment Anxiety and Influences of Attachment Insecurity on the Psilocybin Experience. _ACS Pharmacology &amp; Translational Science, 4_(2), 526–532. https://doi.org/10.1021/acsptsci.0c00169
+
+Stevenson, J. C., Millings, A., Emerson, L.-M., Sirois, F., &amp; Rowe, A. C. (2021). Adult attachment and Mindfulness: Examining directionality, causality, and theoretical implications. _Journal of Research in Personality, 90_, 104043. https://doi.org/10.1016/j.jrp.2020.104043
+
+Verhees, M. W. F. T., Ceulemans, E., Bakermans-Kranenburg, M. J., &amp; Bosmans, G. (2021). State Attachment Variability: Between- and within-Person Level Associations with Trait Attachment and Psychological Problems. _Brain Sciences, 11_(10), 1264. https://doi.org/10.3390/brainsci11101264
+
+Viddal, K. R., Berg-Nielsen, T. S., Wan, M. W., Green, J., Hygen, B. W., &amp; Wichstrøm, L. (2015). Secure attachment promotes the development of effortful control in boys. _Attachment &amp; Human Development, 17_(3), 319–335. https://doi.org/10.1080/14616734.2014.999098
+
+Waters, E., Weinfield, N. S., &amp; Hamilton, C. E. (2000). The Stability of Attachment Security from Infancy to Adolescence and Early Adulthood: General Discussion. _Child Development, 71_(3), 703–706. https://doi.org/10.1111/1467-8624.00179
+
+Waters, H. S., &amp; Waters, E. (2006). The attachment working models concept: Among other things, we build script-like representations of secure base experiences. _Attachment &amp; Human Development, 8_(3), 185–197. https://doi.org/10.1080/14616730600856016
+
+Weinfield, N. S., Sroufe, L. A., &amp; Egeland, B. (2000). Attachment from Infancy to Early Adulthood in a High‐Risk Sample: Continuity, Discontinuity, and Their Correlates. _Child Development, 71_(3), 695–702. https://doi.org/10.1111/1467-8624.00178
+
+‌Wright, B., &amp; Edginton, E. (2016). Evidence-Based Parenting Interventions to Promote Secure Attachment. _Global Pediatric Health, 3_, 2333794X1666188. https://doi.org/10.1177/2333794x16661888‌
+
+Youngblade, L. M., &amp; Belsky, J. (1989). Child Maltreatment, Infant-Parent Attachment Security, and Dysfunctional Peer Relationships in Toddlerhood. _Topics in Early Childhood Special Education, 9_(2), 1–15. https://doi.org/10.1177/027112148900900202
+
+‌
+
+‌
+
+‌
+
+‌
