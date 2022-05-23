@@ -50,12 +50,14 @@ background-size: 125px
 background-position: 5% 92%
 
 
-# Assignment 3
+# Attachment, Personality, and Intelligence
 
-
+**PSMT63: Human Development: Attachment and Relational Contexts of Lifespan Development**
 
 
 Jón Ingi Hlynsson
+
+May 25th, 2022
 
 
 #### Department of Psychology, Stockholm University 
@@ -63,3 +65,117 @@ Jón Ingi Hlynsson
 
 
 ---
+
+
+# Background
+
+A securely attached infant does not need to use their cognitive resources to inquire about the availability of their caregiver, and thus are more inclined to explore (Belsky et al., 1984). 
+
+--
+
+Secure attachment predicts the positive development of executive functioning (Bernier et al., 2011) and higher verbal comprehension among gifted children (Wellisch et al., 2011).
+
+--
+
+Insecure attachment appears to be related to a lower level of cognitive performance (IJzendoorn et al., 1995).
+
+--
+
+Delvecchio and colleagues (2013) found that organized attachment was significantly associated with Full-Scale intelligence and Verbal intelligence scores, compared with attachment disorganization.
+
+--
+
+Secure attachment positively associated with *openness to experience* (Deniz, 2011; Fransson et al., 2013; Hagekull & Bohlin, 2003).
+
+--
+
+Openness to experience is associated with both fluid and crystalized intelligence (DeYoung et al., 2005; DeYoung et al., 2007; Schretlen et al., 2010).
+
+???
+In Delvecchio and colleagues’ (2013) study cited above, the authors do not make sense of the theoretical argumentation for an avoidant attachment style resulting in higher intelligence scores. A possible explanation for their findings is avoidant attachment’s positive association with openness to experience (Deniz, 2011), and thus indirectly intelligence.
+
+---
+
+# Study proposal
+
+Illuminate the association between attachment and intelligence and explore the potential mediational link between attachment and intelligence through openness to experience. 
+
+---
+
+# Hypothesis
+
+**Hypothesis 1**:  
+a)	Organized attachment is associated with a higher Full-Scale IQ score compared with disorganized attachment.  
+b)	Organized attachment is associated with a higher Verbal IQ score compared with disorganized attachment.  
+c)	Secure attachment is associated with higher a Verbal IQ score compared with insecure attachment.  
+d)	Secure attachment is associated with higher a Verbal IQ score compared with insecure attachment.  
+
+--
+
+**Hypothesis 2**:  
+a)	Secure attachment is associated with higher scores in trait Openness to Experience.  
+b)	Avoidant attachment is associated with higher scores in trait Openness to Experience.  
+c)	A higher score in trait Openness to Experience is associated with a higher Full-Scale IQ score.  
+d)	A higher score in trait Openness to Experience is associated with a higher Verbal IQ score.  
+
+---
+
+# Hypothesis
+
+**Hypothesis 3**:  
+a)	A higher score in Full-Scale IQ among individuals with an organized attachment is mediated by a higher score in trait Openness to Experience.  
+b)	A higher score in Verbal IQ among individuals with an organized attachment is mediated by a higher score in trait Openness to Experience.  
+c)	A higher score in Full-Scale IQ among securely attached individuals is mediated by a higher score in trait Openness to Experience.  
+d)	A higher score in Verbal IQ among securely attached individuals is mediated by a higher score in trait Openness to Experience.  
+
+
+
+
+---
+
+# Method
+
+
+*Participants*   
+University student sample. 
+
+*Instruments*  
+Experiences in close relationships-revised (ECR-R) questionnaire (Fraley et al., 2000)
+Wechsler (2008) Adult Intelligence Scale – Fourth Edition (WAIS-IV) 
+Goldberg’s (1999) AB5C-IPIP personality inventory.
+
+
+**Other measures**  
+Demographic questions:  
+-	Age
+-	Socioeconomic status
+
+
+---
+
+# Analysis 
+
+
+Regression analysis. 
+
+-	In all cases, covariate confounding demographic variables
+
+
+For hypothesis 1, the outcome variable is the IQ score, and predictor variable is the attachment style classification.  
+
+For hypothesis 2a and 2b, the outcome variable is AB5C-IPIP score, and the predictor variable is the attachment style classification.
+
+For hypothesis 2c and 2d, the outcome variable is the IQ score, the predictor variable is the AB5C-IPIP score.
+
+For hypothesis 3, the outcome variable is the IQ score, the predictor variable is the attachment style classification, and the covariate is the AB5C-IPIP score.   
+
+
+---
+class: inverse middle center
+
+
+# All suggestions are very well appriciated!
+
+--
+
+## Thank you for your attention!
